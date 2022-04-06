@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+
+* {
+	font-size: 2.5vw;
+	color: black;
+	background-color: #F4F1DE;
+	font-family: "Quicksand", sans-serif;
+}
+ body {
+	background-color: #F4F1DE;
+ }
+
+.myform {
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+
+h1 {
+	text-align: center
+}
+
+.container {
+	padding: 5vw;
+	min-height: 25vw;
+	background-color: #81B29A;
+}
+
+.radio-text {
+	align-items: center;
+}
+
+.radio-button, .checkbox {
+	margin: 2vw;
+	margin-bottom: 0;
+	border: 0;
+	-ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5);
+}
+
+textarea {
+	width: 100%;
+	word-wrap: normal;
+}
+
+.title {
+	margin: auto;
+	height: 5vw;
+	display: flex;
+    align-items: center;
+	padding: 10px;
+}
+
+.alt1 {
+	background-color:#F2CC8F;
+	color: #3D405B;
+}
+
+.alt2 {
+	background-color:#3D405B;
+	color: #F2CC8F;
+}
+
+.input-text {
+	height: 3vw;
+	font-size: 2.5vw;
+	width: 50%;
+}
+
+.menu-item {
+	margin: auto;
+}
+
+.alertmsg {
+	min-height: 0;
+    height: 1px;
+    padding-top: 0;
+    padding-bottom: 0;
+    color: darkred;
+    font-weight: bold;
+	display: none;
+}
+
+.timeset1, .timeset2 {
+	display: none;
+}
+
+.submit {
+	text-align: right;
+}
+
+.submit-button {
+	background-color: #E07A5F;
+    color: #3D405B;
+    width: 12vw;
+    height: 5vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
